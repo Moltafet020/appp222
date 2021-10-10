@@ -2,5 +2,6 @@
     <string name="app_name">My Application</string>
 <string name="pictire_name">نام تصویر</string>
 <string name="Text_name">نام متن</string>
+    <string name="Text_name1">اسم و نام متن</string>
 
 </resources>
